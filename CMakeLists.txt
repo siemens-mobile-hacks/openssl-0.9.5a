@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.15)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS true)
 
-project(elfloader3 LANGUAGES C)
+project(openssl LANGUAGES C)
 
 set(CMAKE_C_STANDARD 99)
 
